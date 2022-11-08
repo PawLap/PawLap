@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PawLap
+- 👀 I’m interested in OOP
+- 🌱 I’m currently learning C#
+- 📫 How to reach me hilki13@gmail.com
